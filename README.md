@@ -33,7 +33,7 @@ This will start the development server and open the application in your default 
 C-lick on the shapes to select them and modify their properties.
 -Once you're done, you can download the created shapes in various formats.
 
-***Dependencies:***
+4.***Dependencies:***
 
 React
 Leaflet
@@ -46,18 +46,27 @@ Clone the repository:
 ```bash
 Copy code
 git clone https://github.com/shreyanshtri26/geospatial-app.git
-Navigate to the project directory:
+
+````
+5.***Navigate to the project directory:***
 
 ```bash
-Copy code
 cd geo-data-app
-Install dependencies:
+```
+6.***Install dependencies:***
 
 ```bash
-Copy code
+
 npm install
-Start the development server:
+```
+
+7.***Start the development server:***
 
 ```bash
-Copy code
 npm run dev
+```
+8.***Simentuleously run backend-***
+```bash
+ go run main.go
+```
+5. 
