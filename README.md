@@ -14,18 +14,18 @@ The GeoData Application is a web-based tool built with React and the Leaflet lib
 
 ## Usage
 
-1. **Installation:**
+1. ***Installation:***
    
    ```bash
    npm install
-2. **Running the App:**
+2. ***Running the App:***
 
    ```bash
    npm start
 
 This will start the development server and open the application in your default web browser.
 
-3. **Using the App:**
+3. ***Using the App:***
 
 -Drag and drop GeoJSON or KML files onto the application to upload them.
 -The uploaded files will be displayed on the map.
@@ -68,5 +68,4 @@ npm run dev
 8.***Simentuleously run backend-***
 ```bash
  go run main.go
-```
-5. 
+``` 
