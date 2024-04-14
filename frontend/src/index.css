@@ -1,0 +1,50 @@
+header {
+  background-color: #007bff; /* Blue header background */
+  color: #fff; /* White text color */
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1.1rem;
+}
+
+/* Main content styles */
+main {
+  padding: 40px 0;
+}
+
+.card {
+  background-color: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.card h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.card p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #343a40; /* Dark footer background */
+  color: #595555; /* White text color */
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer p {
+  font-size: 1rem;
+}
