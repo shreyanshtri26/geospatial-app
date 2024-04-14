@@ -2,6 +2,9 @@
 
 The GeoData Application is a web-based tool built with React and the Leaflet library, designed to facilitate the interaction with geographical data in various formats. Users can upload GeoJSON and KML files, visualize them on a map, draw custom shapes, and download the created shapes for further use.
 
+![image](https://github.com/shreyanshtri26/geospatial-app/assets/65079159/1c70cac9-0212-49d1-b618-7e1b06ddbd94)
+
+
 ## Features
 
 - **Drag and Drop:** Easily upload GeoJSON and KML files by dragging and dropping them onto the application.
