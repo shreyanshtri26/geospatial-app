@@ -54,7 +54,7 @@ git clone https://github.com/shreyanshtri26/geospatial-app.git
 5.***Navigate to the project directory:***
 
 ```bash
-cd geo-data-app
+cd geospatial-app
 ```
 6.***Install dependencies:***
 
